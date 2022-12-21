@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Marco normativo sector asegurador, conceptualización y clasificación de riesgos'
