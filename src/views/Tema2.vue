@@ -401,6 +401,10 @@
           .row(titulo="Negación de la solicitud de inscripción")
             p Atendiendo el propósito y la finalidad del RAIMAT, la SFC (Superintendencia Financiera de Colombia) podrá rechazar la solicitud de registro de una compañía de seguros extranjera cuya calidad e idoneidad resulten distorsionadas por el análisis de la información obtenida de la solicitud de registro u otras fuentes adicionales, teniendo en cuenta los fines y objetivos de RAIMAT. Con base en los procedimientos y normas aplicables para la evaluación de solicitudes, la autoridad de control decide si una compañía de seguros extranjera está registrada en RAIMAT. Este registro se otorga por tiempo indefinido, sin perjuicio de la facultad de la SFC de suspender o retirar dicho registro, siempre que se respeten y mantengan al día en cada caso.
 
+    .row.mb-5
+      p.mb-4 Para complementar la información anterior acerca del contenido y forma de la solicitud de inscripción de entidades aseguradoras del exterior, se profundiza sobre cómo debe estar acompañada la solicitud.
+      p A continuación, se presenta la información y documentación que debe llevar esta solicitud.
+
     .bg4
       .row.mb-5
         .tarjeta.tarjeta--amarilla.p-4
@@ -427,7 +431,7 @@
                   img(src='@/assets/curso/temas/tema2/img21.svg', alt='')              
               
               .col-lg-7
-                p Certificación expedida por la autoridad que supervisa a la entidad aseguradora del exterior en el país donde esta tiene su domicilio principal, en la cual se acredite su existencia, domicilio principal, representantes legales y en la que conste su capacidad para comercializar seguros asociados al transporte marítimo internacional, la aviación comercial internacional, el lanzamiento y transporte espacial (incluyendo satélites), que amparen los riesgos vinculados a las mercancías objeto de transporte, el vehículo que transporte las mercancías y la responsabilidad civil que pueda derivarse de los mismos, así como seguros que amparen mercancías en tránsito internacional. En dicha certificación también se deberá acreditar la existencia en ese país de normas relativas a la Prevención y Control del Lavado de Activos y Financiación del terrorismo (Anti-Money Laundering/Combating the Financing of Terrorism, AML/CFT), de obligatorio cumplimiento por parte de las entidades aseguradoras supervisadas
+                p Certificación expedida por la autoridad que supervisa a la entidad aseguradora del exterior en el país donde esta tiene su domicilio principal, en la cual se acredite su existencia, domicilio principal, representantes legales y en la que conste su capacidad para comercializar seguros asociados al transporte marítimo internacional, la aviación comercial internacional, el lanzamiento y transporte espacial (incluyendo satélites), que amparen los riesgos vinculados a las mercancías objeto de transporte, el vehículo que transporte las mercancías y la responsabilidad civil que pueda derivarse de los mismos, así como seguros que amparen mercancías en tránsito internacional. En dicha certificación también se deberá acreditar la existencia en ese país de normas relativas a la Prevención y Control del Lavado de Activos y Financiación del terrorismo #[i (Anti-Money Laundering/Combating the Financing of Terrorism, AML/CFT)], de obligatorio cumplimiento por parte de las entidades aseguradoras supervisadas
 
             .row.justify-content-center(titulo="")
               .col-10.col-lg-4.mb-4
