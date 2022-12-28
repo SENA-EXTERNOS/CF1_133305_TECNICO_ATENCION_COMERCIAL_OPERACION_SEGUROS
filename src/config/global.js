@@ -188,7 +188,7 @@ export default {
         'está asegurado contra la cesión de derechos similares contra un tercero hasta el monto de la indemnización pagada por el daño causado; es decir, el asegurador es responsable de las acciones que violen este derecho del asegurado. En este caso, el derecho a que el asegurado renuncie en favor del asegurado para tomar acción contra el tercero que causó el siniestro.',
     },
     {
-      termino: 'Suma asegurada:',
+      termino: 'Suma asegurada',
       significado:
         'es el valor establecido en la póliza como la responsabilidad máxima que debe pagar la compañía de seguros en caso de pérdida o daño a los beneficiarios.',
     },
@@ -212,7 +212,7 @@ export default {
     },
     {
       referencia:
-        'Superintendencia Financiera de Colombia. (s.f). Información General- Aseguradoras e Intermediarios de Seguros.',
+        'Superintendencia Financiera de Colombia. (s.f). <i>Información General- Aseguradoras e Intermediarios de Seguros.</i>',
       link:
         'https://www.superfinanciera.gov.co/inicio/industrias-supervisadas/industria-aseguradora/informacion-general-aseguradoras-e-intermediarios-de-seguros-15491',
     },

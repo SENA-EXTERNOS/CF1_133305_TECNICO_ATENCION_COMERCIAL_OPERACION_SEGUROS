@@ -26,7 +26,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Tipos de riesgos
-                  p Para profundizar sobre los tipos de riesgos según la Circular Externa 029 de 2014 de la Superintendencia Financiera, lo invitamos a leer el documento Tipos de riesgos.
+                  p Para profundizar sobre los tipos de riesgos según la Circular Externa 029 de 2014 de la Superintendencia Financiera, lo invitamos a leer el documento #[strong Tipos de riesgos.]
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/tipos_de_riesgos.pdf')" target="_blank")
                     span.texto-blanco Descargar
@@ -370,7 +370,7 @@
 
     .row.mb-5
       p.mb-4 Siguiendo con el desarrollo de estos abordajes, se presenta, a continuación, el proceso de inscripción y políticas que son importantes en el momento de realizar la inscripción según la Circular Externa 029 de 2014 de la Superintendencia Financiera, entidad que reglamenta el sector de las empresas aseguradoras.
-      p A continuación, podrá conocer el procedimiento de inscripción en el registro de aseguradoras extranjeras denominado RAIMAT.
+      p A continuación, podrá conocer el procedimiento de inscripción en el registro de aseguradoras extranjeras denominado #[strong RAIMAT.]
 
     .row.mb-5
       .col-lg-4.mb-4
@@ -402,7 +402,7 @@
             p Atendiendo el propósito y la finalidad del RAIMAT, la SFC (Superintendencia Financiera de Colombia) podrá rechazar la solicitud de registro de una compañía de seguros extranjera cuya calidad e idoneidad resulten distorsionadas por el análisis de la información obtenida de la solicitud de registro u otras fuentes adicionales, teniendo en cuenta los fines y objetivos de RAIMAT. Con base en los procedimientos y normas aplicables para la evaluación de solicitudes, la autoridad de control decide si una compañía de seguros extranjera está registrada en RAIMAT. Este registro se otorga por tiempo indefinido, sin perjuicio de la facultad de la SFC de suspender o retirar dicho registro, siempre que se respeten y mantengan al día en cada caso.
 
     .row.mb-5
-      p.mb-4 Para complementar la información anterior acerca del contenido y forma de la solicitud de inscripción de entidades aseguradoras del exterior, se profundiza sobre cómo debe estar acompañada la solicitud.
+      p.mb-4 Para complementar la información anterior acerca del #[strong contenido y forma de la solicitud de inscripción de entidades aseguradoras del exterior], se profundiza sobre cómo debe estar acompañada la solicitud.
       p A continuación, se presenta la información y documentación que debe llevar esta solicitud.
 
     .bg4

@@ -27,7 +27,7 @@
                 img(src='@/assets/curso/temas/tema3/img2.svg', alt='')
             
             .col-lg-10.mt-5
-              p La administración de la imagen de la organización como el desprestigio y la publicidad negativa.
+              p Documento que expide la compañía de seguros, en la cual se indican todas las condiciones de cobertura del seguro contratado.
 
         .tarjeta.color-primario--borde.p-4(titulo="Prima")
           .row.justify-content-center
