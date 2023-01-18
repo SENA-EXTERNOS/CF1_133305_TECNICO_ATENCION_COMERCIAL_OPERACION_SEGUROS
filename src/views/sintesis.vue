@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     p.mb-5 A continuación, se presenta la síntesis donde se refleja el contenido del presente componente formativo.
-
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

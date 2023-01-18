@@ -115,14 +115,14 @@ export default {
     {
       tema: 'Contexto del concepto de los seguros',
       referencia:
-        'Consultorio Empresarial y Contable - Faceconomia. (2017, julio 3). <i>Tipos de seguros.</i> [Video]. Youtube ',
+        'Consultorio Empresarial y Contable - Faceconomia. (2017). <em>Tipos de seguros</em> [video]. YouTube',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=0c6fRTB9_G4',
     },
     {
-      tema: 'Seguros',
+      tema: 'Contexto del concepto de los seguros',
       referencia:
-        'El Espectador. (2021, 20 de abril). ¿Qué es y para qué sirve el contrato de seguros? Tip legal El Espectador. [Video]. Youtube',
+        'El Espectador. (2021). <em>¿Qué es y para qué sirve el contrato de seguros? Tip legal El Espectador</em> [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=esPIXWbhqVc',
     },
@@ -195,26 +195,26 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Circular Externa 029 de 2014. (2014). Superintendencia Financiera de Colombia.',
-      link: 'https://www.superfinanciera.gov.co/jsp/10083444',
-    },
-    {
-      referencia: 'Secretaría Senado (2022). <i>Código de Comercio.</i> ',
+      referencia: 'Secretaría Senado. (s.f.). <em>Código de Comercio</em>.',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil_pr034.html',
     },
     {
       referencia:
-        'Sentencia S-24-08-2009. (2009, 24 de agosto). Corte Suprema de Justicia. Sala de Casación Civil (William Naméz Vargas).',
+        'Corte Suprema de Justicia. Sala de Casación Civil (William Naméz Vargas). (2009). <em>Sentencia S-24-08-2009</em>.',
       link:
         'https://cortesuprema.gov.co/corte/wp-content/uploads/2021/03/S-24-08-2009-1100131030382001-01054-01_.pdf',
     },
     {
       referencia:
-        'Superintendencia Financiera de Colombia. (s.f). <i>Información General- Aseguradoras e Intermediarios de Seguros.</i>',
+        'Superintendencia Financiera de Colombia. (s.f). <em>Información General- Aseguradoras e Intermediarios de Seguros</em>.',
       link:
         'https://www.superfinanciera.gov.co/inicio/industrias-supervisadas/industria-aseguradora/informacion-general-aseguradoras-e-intermediarios-de-seguros-15491',
+    },
+    {
+      referencia:
+        'Superintendencia Financiera de Colombia. (2014). <em>Circular Externa 029 de 2014</em>.',
+      link: 'https://www.superfinanciera.gov.co/jsp/10083444',
     },
   ],
   creditos: {

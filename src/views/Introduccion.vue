@@ -14,7 +14,7 @@
         figure
           img(src='@/assets/curso/temas/introduccion/img1.svg', alt='')
       .col-lg-6
-        p Apreciado aprendiz, bienvenido a este componente formativo, en el que conocerá acerca de la historia del sector de las empresas aseguradoras en Colombia, cómo inició y hasta dónde ha llegado en la actualidad, la importancia que tienen estas empresas en la economía colombiana brindando soporte a los negocios, como garantía de que se van a hacer efectivos y reales en el momento de la transacción. También, podrá aprender acerca de cómo unas normas locales se transforman en estándares, entre otras cosas, una adecuada gestión del riesgo y una exigencia de capital que mitiguen los riesgos inesperados.
+        p Apreciado aprendiz, bienvenido a este componente formativo, donde conocerá acerca de la historia del sector de las empresas aseguradoras en Colombia, cómo inició y hasta dónde ha llegado en la actualidad; la importancia que tienen este tipo de empresas en la economía colombiana, brindando soporte a los negocios, en el momento de la transacción. También, aprenderá sobre cómo unas normas locales se modifican en normas estándares, para una adecuada gestión del riesgo y una exigencia de capital, que mitiguen los riesgos inesperados.
 
     .row.mb-3
       p A continuación, lo invitamos a ver el siguiente video, que le dará un panorama general sobre las diferentes temáticas que se van a estudiar.

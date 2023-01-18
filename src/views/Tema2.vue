@@ -12,7 +12,8 @@
         figure
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='')
       .col-lg-8
-        p Las empresas deben contar con un sistema de evaluación y gestión de riesgos tanto financieros como operativos en su infraestructura, de acuerdo con su tamaño y las actividades a las que se enfocan, por lo que es importante establecer metas para descubrir los riesgos potenciales que la afectan. Para esto, se debe realizar el análisis de los riesgos a los que esta se expone, las medidas de control interno y la adecuación de los sistemas de riesgos obtenidos como resultado de dicho análisis, qué política y nivel de cobertura debe cubrir a la sociedad y asegurar las actividades de control hasta la reducción del riesgo.
+        p Las empresas deben contar con un sistema de evaluación y gestión de riesgos, tanto financieros como operativos en su infraestructura, de acuerdo con su tamaño y las actividades en las que se enfocan; por esta razón, es importante establecer metas para descubrir los riesgos potenciales que las afectan. Para esto, se debe realizar el análisis de los riesgos a los que se exponen, las medidas de control interno y la adecuación de los sistemas de riesgos, obtenidos como resultado de este análisis; qué política y qué nivel de cobertura se deben cubrir en la organización, y asegurar las actividades de control, hasta la reducción del riesgo.
+
         .cajon.color-primario.p-3
           p En los negocios, es importante caracterizar cómo se conoce la empresa y sus actividades, la política de riesgos de la organización, que puede ser influenciada durante las negociaciones, y descubrir las fuentes de riesgo. Esto se realiza a través de documentación y revisión de las actividades de la empresa, el inventario, entrevistas a los responsables del proceso y visitas de comparación de datos a las empresas.
 
@@ -32,8 +33,11 @@
                     span.texto-blanco Descargar
                     i.fas.fa-file-download.texto-blanco
 
-    .row.mb-5
-      p Para la gestión de riesgos es usual apoyarse en una matriz de riesgo, la cual es un resumen donde se hace el análisis con relación a los sucesos que se pueden presentar en una entidad. 
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .cajon.color-secundario.p-3
+            p Para la gestión de riesgos, es usual apoyarse en una matriz de riesgo que permite el análisis, con relación a los sucesos que se pueden presentar en una entidad. 
+
 
     .row.justify-content-center.mb-3
       .col-lg-11
@@ -45,7 +49,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Plantilla del modelo de matriz de riesgos
-                  p A continuación, lo invitamos a descargar la plantilla del modelo de matriz de riesgos, el cual le permitirá identificar y organizar los riesgos de una organización.
+                  p Lo invitamos a descargar la plantilla del modelo de matriz de riesgos, el cual le permitirá identificar y organizar los riesgos de una organización.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/modelo_matriz_de_riesgos.xlsx')" target="_blank")
                     span.texto-blanco Descargar
@@ -58,7 +62,7 @@
       h2 2.1 Normatividad del riesgo
 
     .row.mb-5
-      p A continuación, conocerá algunas clases de seguros con el objetivo de identificar su importancia en el mercado, dado que, quien sufre un perjuicio, adquiere el derecho a ser indemnizado y quien lo causa, consecuentemente, está obligado a reparar al primero de forma integral. Por lo tanto, es importante que conozca estos procesos al momento de asesorar a un cliente.
+      p Se establecen algunas clases de seguros, con el objetivo de identificar su importancia en el mercado, teniendo en cuenta que, quien sufre un perjuicio, adquiere el derecho a ser indemnizado y quien lo causa, consecuentemente, está obligado a reparar, al primero, de forma integral. Por lo tanto, es importante que conozca estos procesos al momento de asesorar a un cliente.
 
     .bg3
       .row.mb-3
@@ -69,10 +73,10 @@
           figure
             img(src='@/assets/curso/temas/tema2/img4.svg', alt='')          
         .col-lg-6
-          p El seguro de daños es el mismo seguro de responsabilidad civil; le corresponde poner a disposición de las personas las herramientas jurídicas necesarias para garantizar que las indemnizaciones sean entregadas a las víctimas. Este seguro nace para proteger al asegurado cuando este ha causado un perjuicio y se le exige la respectiva indemnización, de manera que no tenga que asumir la obligación de reparar a la víctima directamente si es de una cuantía considerable, sino que encuentre respaldo en la cobertura de la póliza otorgada por la aseguradora.
+          p El seguro de daños es también conocido como seguro de responsabilidad civil y, como finalidad, tiene la obligación de poner a disposición de las personas, las herramientas jurídicas necesarias para garantizar que las indemnizaciones sean entregadas a las víctimas. Este seguro aflora, para proteger al asegurado, cuando este ha causado un perjuicio y se le exige la respectiva indemnización, de manera que no tenga que asumir la obligación de reparar a la víctima directamente, si la acción amerita una cuantía considerable, sino que encuentre un respaldo en la cobertura de la póliza, otorgada por la aseguradora.
 
       .row.mb-5
-        p A continuación, se presentan los elementos para tener en cuenta en este contrato.
+        p Asimilemos los siguientes conceptos que se deben tener en cuenta:
 
       .row.mb-5
         .col-lg-7.mb-4
@@ -147,7 +151,7 @@
       .row.mb-3
         h4 Seguro de transporte
         p Para abarcar los seguros de transporte se hará referencia partiendo del Artículo 1117 hasta llegar al Artículo 1126 de la Circular Externa 029 de 2014 de la Superintendencia Financiera.
-        p Con base en esta circular, se detalla cada uno de los artículos mencionados.
+        p Con base en esta circular, se detallan cada uno de los artículos anteriormente mencionados:
 
       .row.mb-5
         .tarjeta.SlyderA-bgr.p-3.p-lg-5
@@ -247,8 +251,9 @@
 
     .row.mb-5
       h4.mb-5 Seguro de responsabilidad
-      p.mb-4 Ahora bien, dentro de la normatividad de seguros también se encuentra el seguro de responsabilidad, citado desde el Artículo 1127 hasta el Artículo 1133 de la Circular Externa 029 de 2014 de la Superintendencia Financiera.
-      p A continuación, se detalla cada uno de estos Artículos referentes al seguro de responsabilidad.
+      p.mb-4 Ahora bien, dentro de la normatividad de los seguros, también se encuentra el seguro de responsabilidad, citado desde el Artículo 1127 hasta el Artículo 1133 de la Circular Externa 029 de 2014 de la Superintendencia Financiera.
+
+      p Los artículos referentes al seguro de responsabilidad son:
 
     .row.mb-5
       TabsA.color-primario
@@ -331,7 +336,7 @@
     .row.mb-5
       h4.mb-5 Seguro reaseguro
       p.mb-4 Finalmente, se hace referencia al seguro reaseguro presentado en los Artículos 1134, 1135 y 1136 de la Circular Externa 029 de 2014 de la Superintendencia Financiera.
-      p A continuación, se presentan los artículos referentes al seguro reaseguro.
+      p Veamos los artículos referentes al seguro de reaseguro:
 
     .row.mb-5
       .col-lg-8.mb-4
@@ -369,8 +374,9 @@
       h2 2.2 Proceso de suscripción y políticas de riesgo
 
     .row.mb-5
-      p.mb-4 Siguiendo con el desarrollo de estos abordajes, se presenta, a continuación, el proceso de inscripción y políticas que son importantes en el momento de realizar la inscripción según la Circular Externa 029 de 2014 de la Superintendencia Financiera, entidad que reglamenta el sector de las empresas aseguradoras.
-      p A continuación, podrá conocer el procedimiento de inscripción en el registro de aseguradoras extranjeras denominado #[strong RAIMAT.]
+      p.mb-4 El proceso de inscripción y políticas son importantes en el momento de realizar la inscripción, según la Circular Externa 029 de 2014 de la Superintendencia Financiera, entidad que reglamenta el sector de las empresas aseguradoras.
+
+      p Observemos ahora, el procedimiento de inscripción en el registro de aseguradoras extranjeras, denominado #[b RAIMAT.]
 
     .row.mb-5
       .col-lg-4.mb-4
@@ -403,8 +409,8 @@
 
     .row.mb-5
       p.mb-4 Para complementar la información anterior acerca del #[strong contenido y forma de la solicitud de inscripción de entidades aseguradoras del exterior], se profundiza sobre cómo debe estar acompañada la solicitud.
-      p A continuación, se presenta la información y documentación que debe llevar esta solicitud.
-
+      p Información y documentación que debe llevar esta solicitud:
+      
     .bg4
       .row.mb-5
         .tarjeta.tarjeta--amarilla.p-4

@@ -9,14 +9,14 @@
 
     .row.mb-5
       .col-lg-6.mb-4
-        p Los seguros son instrumentos financieros que brindan garantías a las personas, las empresas y al Estado, al transferir sus ingresos a otra persona o compañía, mediante el pago de una suma de dinero. En caso de que sucedan los hechos que están contemplados en el seguro, el tercero debe pagar al asegurado una indemnización por la suma asegurada, o en su lugar, brindar un servicio. De acuerdo con las condiciones de la póliza, los seguros contribuyen a la recuperación de los efectos adversos que puedan producirse por situaciones inesperadas, para que no se vea afectada la calidad de vida de la persona involucrada o de su familia. 
+        p Los seguros son instrumentos financieros que brindan garantías a las personas, a las empresas y al Estado, al transferir sus riesgos a otra persona o compañía, mediante el pago de una suma de dinero. En el caso que sucedan los hechos que están contemplados en el seguro, el tercero debe pagar al asegurado una indemnización por la suma asegurada, o en su lugar, brindar un servicio según las normas acordadas en la póliza. De acuerdo con las condiciones de la póliza, los seguros contribuyen a la recuperación de los efectos adversos que puedan producirse por situaciones inesperadas, para que no se vea afectada la calidad de vida de la persona involucrada o de su familia. 
 
       .col-lg-6
         figure
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='')
 
     .row.mb-3
-      p A continuación, se presentan los componentes que lo conforman.
+      p Las definiciones más comunes que forman parte del concepto de los seguros son:
 
     .row.mb-5
       TabsA.color-primario
@@ -107,6 +107,9 @@
         .cajon.color-secundario.p-4
           p Los seguros se pueden clasificar en dos grupos: seguros de daños y seguros de personas. Los seguros de daños de uso o propiedad patrimonial del cliente dependen de las condiciones que obtenga y la cobertura que posea. Estos amparan los bienes muebles o inmuebles, como las casas y lo que hay dentro de ellas. Los seguros de personas amparan la vida, la integridad y la salud de los individuos.
 
+    .row.mt-5
+      p ¿Qué tipos de seguros que existen en Colombia?
+
     .bg5
       .row.justify-content-center.mb-5       
         ImagenInfograficaB.color-acento-botones
@@ -147,7 +150,7 @@
           p Cuando se habla de seguros, también es necesario hablar de reaseguros, que se refiere a las compañías de seguros y cooperativas que realizan actividades de seguros con normas y sucursales expresamente autorizadas, salvo lo específicamente previsto por la ley. También pueden ejercer el reaseguro en las condiciones que establezca el gobierno, debiendo tener únicamente este objeto las empresas que tengan como propósito la realización de seguros individuales, sin que sus actividades puedan extenderse a otras actividades aseguradoras, excepto las que tengan carácter complementario, como lo indica el  Artículo 38 del Reglamento Financiero.  El reaseguro también puede clasificarse según el tipo de contrato y el objeto de la función del contenido de las cesiones. 
 
     .row.mb-5
-      p A continuación, se presentan los tipos de reaseguros según el método de contratación.
+      p Los tipos de contratos de reaseguros, según el método de contratación, son:
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -179,7 +182,7 @@
 
     .row.mb-5
       p Así como se presentó la clasificación de los reaseguros según el método de contratación, también se presenta la clasificación de los reaseguros según la función del contenido de las cesiones.
-      p De esta manera, se presentan estos tipos de reaseguros.
+      p Conozcamos los diferentes modelos de contratos de reaseguros:
 
 
     .row.justify-content-center.mb-5
@@ -216,7 +219,7 @@
         .col-lg-9
           .cajon.color-primario.p-3
             p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para hacerlo, diríjase al menú principal, donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a desarrollar la actividad didáctica para reforzar los conceptos estudiados en el componente formativo.
-
+            
 
 
 </template>

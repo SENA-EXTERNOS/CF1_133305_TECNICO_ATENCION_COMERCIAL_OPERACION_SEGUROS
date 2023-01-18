@@ -9,7 +9,7 @@
 
     .row.mb-5
       p Antes de empezar a conocer en detalle el tema de los seguros, es importante repasar su reseña histórica, la cual le permitirá saber más sobre los seguros, dónde se crean las compañías, los procesos, la normatividad y las reformas que se han estado desarrollando en este sector con el paso del tiempo.
-      p A continuación, se presenta parte de la historia de los seguros en Colombia.
+      p A continuación, se presenta una parte de la historia de los seguros en Colombia:
 
     .row.mb-5
       .tarjeta.tarjeta--amarilla.p-4
@@ -88,8 +88,9 @@
 
     .row.mb-5
       h3 Órganos de control de los seguros en Colombia
-      p Después de hacer un recorrido por la historia de los seguros en Colombia, a continuación, se darán a conocer cuáles son los órganos de control de los seguros en el país, además se presentarán los objetivos, roles y funciones que desempeña cada uno de estos.
-      p A continuación, se presentan los órganos de control de los seguros en Colombia.
+      p En el siguiente recurso, vamos a conocer cuáles son los órganos de control para los seguros en el país; además, se presentarán los objetivos, roles y funciones, que desempeña cada uno de estos.
+
+      p Los organismos de control de los seguros en Colombia son:
 
     .bg1
       .row.justify-content-center.mb-5
@@ -126,7 +127,7 @@
 
       .row.mb-5
         h4 Marco Regulatorio
-        p A continuación, se profundizará sobre la normativa vigente del sector de las empresas aseguradoras, la cual es importante al momento de proceder con un cliente y hacer una negociación; también se encuentran las partes que componen a un contrato de póliza con su función o cómo se debe registrar teniendo presente la normatividad vigente.
+        p La normativa vigente del sector de las empresas aseguradoras, es importante al momento de proceder con un cliente y realizar una negociación, lo mismo que las partes que componen el contrato de una póliza, con su función o cómo se debe registrar, teniendo presente la normatividad vigente.
 
       .row.mb-5
         .col-lg-6.mb-4
@@ -136,7 +137,9 @@
           p El primer estatuto del sistema financiero que reunió la normatividad vigente de las entidades bajo la supervisión de la autoridad de control bancario es la #[strong Normativa del sector de empresas aseguradoras], Decreto 1730 de 1991. La Ley 45 de 1990 debe mantenerse vigente en la medida en que no se opongan a las nuevas disposiciones. Esta ley establece los lineamientos generales para la actividad aseguradora en Colombia, la cual está sujeta a la supervisión gubernamental y es realizada por la supervisión bancaria, puesto que se esfuerza por proteger los derechos de los asegurados y por crear las condiciones adecuadas para el desarrollo del mercado de seguros y la sana competencia entre las instituciones participantes. La Ley 35 de 1993, o Ley de Marco del Sector Financiero, Bursátil y de Seguros, mediante la cual se establecen las normas generales y se señalan los objetivos y criterios que el Gobierno Nacional debe regular en esta actividad.
 
     .row.mb-3
-      p Siguiendo con la normativa referente a los seguros, se hace necesario mencionar el Código del Comercio - Capítulo V, el cual hace referencia a los principios comunes a los seguros terrestres, iniciando en el Artículo 1036 hasta el Artículo 1082, y desde el Artículo 1083 hasta el Artículo 1112, se abordan los temas referentes a los principios comunes a los seguros de daños. A continuación, lo invitamos a ver el siguiente video, en el cual podrá conocer cuáles son los elementos esenciales del contrato de seguro, extraído de este capítulo. 
+      p Siguiendo con la normativa referente a los seguros, se hace necesario mencionar el Código del Comercio - Capítulo V, el cual hace referencia a los principios comunes a los seguros terrestres, iniciando con el Artículo 1036, hasta el Artículo 1082 y, desde el Artículo 1083 hasta el Artículo 1112, donde se abordan los temas sobre los principios comunes a los seguros de daños. A continuación, lo invitamos a ver el siguiente video, en el cual podrá conocer cuáles son los elementos esenciales del contrato de seguro.
+
+      p Elementos esenciales del contrato de seguro:
 
     .bg2
       .row.mb-5(data-aos="fade-down")
@@ -144,11 +147,7 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      .row.justify-content-center.mb-3
-        .col-lg-10
-          .cajon.color-primario.p-4
-            p Para conocer más a profundidad sobre la normativa presentada en el Código del Comercio, lo invitamos a explorar el material complementario donde podrá encontrar el vínculo que lo redirigirá directamente a esta normatividad.
-
+      
 
       
 </template>
