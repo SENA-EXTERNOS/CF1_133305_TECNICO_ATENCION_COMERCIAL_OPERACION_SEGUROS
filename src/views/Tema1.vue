@@ -98,7 +98,7 @@
           ImagenInfograficaB.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema1/img9.svg', alt='')
+                img(src='@/assets/curso/temas/tema1/9.svg', alt='')
 
             div(x="23%" y="22%" tooltip="" numero="+")
               h5 Superintendencia Financiera de Colombia
@@ -136,10 +136,8 @@
         .col-lg-6
           p El primer estatuto del sistema financiero que reunió la normatividad vigente de las entidades bajo la supervisión de la autoridad de control bancario es la #[strong Normativa del sector de empresas aseguradoras], Decreto 1730 de 1991. La Ley 45 de 1990 debe mantenerse vigente en la medida en que no se opongan a las nuevas disposiciones. Esta ley establece los lineamientos generales para la actividad aseguradora en Colombia, la cual está sujeta a la supervisión gubernamental y es realizada por la supervisión bancaria, puesto que se esfuerza por proteger los derechos de los asegurados y por crear las condiciones adecuadas para el desarrollo del mercado de seguros y la sana competencia entre las instituciones participantes. La Ley 35 de 1993, o Ley de Marco del Sector Financiero, Bursátil y de Seguros, mediante la cual se establecen las normas generales y se señalan los objetivos y criterios que el Gobierno Nacional debe regular en esta actividad.
 
-    .row.mb-3
-      p Siguiendo con la normativa referente a los seguros, se hace necesario mencionar el Código del Comercio - Capítulo V, el cual hace referencia a los principios comunes a los seguros terrestres, iniciando con el Artículo 1036, hasta el Artículo 1082 y, desde el Artículo 1083 hasta el Artículo 1112, donde se abordan los temas sobre los principios comunes a los seguros de daños. A continuación, lo invitamos a ver el siguiente video, en el cual podrá conocer cuáles son los elementos esenciales del contrato de seguro.
-
-      p Elementos esenciales del contrato de seguro:
+    .row.mb-4
+      p Siguiendo con la normativa referente a los seguros, se hace necesario mencionar el Código del Comercio - Capítulo V, el cual hace referencia a los principios comunes a los seguros terrestres, iniciando con el Artículo 1036, hasta el Artículo 1082 y, desde el Artículo 1083 hasta el Artículo 1112, donde se abordan los temas sobre los principios comunes a los seguros de daños. A continuación, lo invitamos a ver el siguiente video, en el cual podrá conocer cuáles son los elementos esenciales del contrato de seguro:
 
     .bg2
       .row.mb-5(data-aos="fade-down")
