@@ -7,8 +7,8 @@
         span 2
       h1 Administración del riesgo
 
-    .row.mb-5
-      .col-lg-4.mb-4
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='')
       .col-lg-8
@@ -21,7 +21,7 @@
       .col-lg-11
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               img(src="@/assets/curso/temas/tema2/img2.svg").img2-tm2
             .col-lg-10
               .row.justify-content-between.align-items-center
@@ -43,7 +43,7 @@
       .col-lg-11
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               img(src="@/assets/curso/temas/tema2/img2.svg").img2-tm2
             .col-lg-10
               .row.justify-content-between.align-items-center
@@ -62,7 +62,7 @@
       h2 2.1 Normatividad del riesgo
 
     .row.mb-5
-      p Se establecen algunas clases de seguros, con el objetivo de identificar su importancia en el mercado, teniendo en cuenta que, quien sufre un perjuicio, adquiere el derecho a ser indemnizado y quien lo causa, consecuentemente, está obligado a reparar, al primero, de forma integral. Por lo tanto, es importante que conozca estos procesos al momento de asesorar a un cliente.
+      p Se establecen algunas clases de seguros, con el objetivo de identificar su importancia en el mercado, teniendo en cuenta que, quien sufre un perjuicio, adquiere el derecho a ser indemnizado y quien lo causa, consecuentemente, está obligado a reparar al primero de forma integral. Por lo tanto, es importante que conozca estos procesos al momento de asesorar a un cliente.
 
     .bg3
       .row.mb-3
@@ -105,7 +105,7 @@
           .bloque-texto-b.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p El asegurador contra el riesgo de incendio responde por los daños materiales de que sean objeto las cosas aseguradas, por causa de fuego hostil o rayo, o de sus efectos inmediatos, como el calor, el humo
+              p El asegurador contra el riesgo de incendio responde por los daños materiales de que sean objeto las cosas aseguradas, por causa de fuego hostil o rayo, o de sus efectos inmediatos, como el calor o el humo.
               b.texto-derecha Secretaría Senado, 2022, párr. 25
               i.fas.fa-quote-right
 
@@ -121,28 +121,28 @@
         .col-lg-8
           LineaTiempoD.color-secundario.mt-3
             .row(numero="1" titulo="Artículo 1113 ")
-              .col-6.col-lg-2.mb-4
+              .col-lg-2.col-sm-4.col-6.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img6-2.svg', alt='')
               .col-lg-10           
                 p El asegurador contra el riesgo de incendio responde por los daños materiales de que sean objeto las cosas aseguradas, por causa de fuego hostil o rayo, o de sus efectos inmediatos, como el calor, o el humo. Responde igualmente cuando tales daños sean consecuencia de las medidas adoptadas para evitar la propagación del incendio.
 
             .row(numero="2" titulo="Artículo 1114")
-              .col-6.col-lg-2.mb-4
+              .col-lg-2.col-sm-4.col-6.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img6-2.svg', alt='')
               .col-lg-10           
                 p El asegurador no responde por las consecuencias de la explosión, a menos que esta sea efecto del incendio.
 
             .row(numero="3" titulo="Artículo 1115")
-              .col-6.col-lg-2.mb-4
+              .col-lg-2.col-sm-4.col-6.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img6-2.svg', alt='')
               .col-lg-10           
                 p El daño o la pérdida de una cosa, proveniente de su combustión espontánea, no están comprendidos dentro de la extensión del riesgo asumido por el asegurador.
 
             .row(numero="4" titulo="Artículo 1116")
-              .col-6.col-lg-2.mb-4
+              .col-lg-2.col-sm-4.col-6.mb-4
                 figure
                   img(src='@/assets/curso/temas/tema2/img6-2.svg', alt='')
               .col-lg-10           
@@ -259,7 +259,7 @@
       TabsA.color-primario
         .tarjeta.color-primario--borde.p-4(titulo="Artículo 1127")
           .row
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
             
@@ -268,7 +268,7 @@
         
         .tarjeta.color-primario--borde.p-4(titulo="Artículo 1128")
           .row
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
             
@@ -290,7 +290,7 @@
 
         .tarjeta.color-primario--borde.p-4(titulo="Artículo 1129")
           .row
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
             
@@ -299,7 +299,7 @@
 
         .tarjeta.color-primario--borde.p-4(titulo="Artículo 1130")
           .row
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
             
@@ -308,7 +308,7 @@
 
         .tarjeta.color-primario--borde.p-4(titulo="Artículo 1131")
           .row
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
             
@@ -317,7 +317,7 @@
 
         .tarjeta.color-primario--borde.p-4(titulo="Artículo 1132")
           .row
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
             
@@ -326,7 +326,7 @@
 
         .tarjeta.color-primario--borde.p-4(titulo="Artículo 1133")
           .row
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')
             
@@ -338,32 +338,31 @@
       p.mb-4 Finalmente, se hace referencia al seguro reaseguro presentado en los Artículos 1134, 1135 y 1136 de la Circular Externa 029 de 2014 de la Superintendencia Financiera.
       p Veamos los artículos referentes al seguro de reaseguro:
 
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-8.mb-4
         LineaTiempoD.color-secundario.mt-3
           .row(numero="1" titulo="Artículo 1134")
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img16.svg', alt='')
             .col-lg-10           
               p Modificado por la Ley 45/90, art. 88. Responsabilidad del reasegurador. En virtud del contrato de reaseguro el reasegurador contrae con el asegurador directo las mismas obligaciones que este ha contraído con el tomador o asegurado y comparte análoga suerte en el desarrollo del contrato de seguro, salvo que se compruebe la mala fe del asegurador, en cuyo caso el contrato de reaseguro no surtirá efecto alguno. La responsabilidad del reasegurador no cesará, en ningún caso, con anterioridad a los términos de prescripción de las acciones que se derivan del contrato de seguro.
 
           .row(numero="2" titulo="Artículo 1135")
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img16.svg', alt='')
             .col-lg-10           
               p El reaseguro no es un contrato a favor de terceros. El asegurado carece, en tal virtud, de acción directa contra el reasegurador, y este de obligaciones para con aquél.
 
           .row(numero="3" titulo="Artículo 1136")
-            .col-6.col-lg-2.mb-4
+            .col-lg-2.col-sm-4.col-6.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img16.svg', alt='')
             .col-lg-10           
               p Los preceptos de este título, salvo los de orden público y los que dicen relación a la esencia del contrato de seguro, sólo se aplicarán al contrato de reaseguro en defecto de estipulación contractual.
 
-      
-      .col-lg-4.mb-4
+      .col-lg-4.col-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img17.svg', alt='')        
       
@@ -386,7 +385,7 @@
       .col-lg-8
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--hr")
           .row(titulo="Regla relativa a los sujetos legítimos para presentar la solicitud") 
-            p La solicitud de registro de una compañía de seguros extranjera debe presentarse por escrito directamente a esta administración o por la entidad correspondiente o a través de un representante claramente autorizado junto con un documento legal emitido para tal efecto por el solicitante a registrar.
+            p La solicitud de registro de una compañía de seguros extranjera debe presentarse por escrito directamente a esta administración o por la entidad correspondiente, o a través de un representante claramente autorizado, junto con un documento legal emitido para tal efecto por el solicitante a registrar.
 
           .row(titulo="Contenido y forma de la solicitud de inscripción de entidades aseguradoras del exterior")
             p Para la inscripción de una entidad aseguradora del exterior en el RAIMAT, la solicitud debe estar acompañada de cierta información que podrá consultar siguiendo el desarrollo de este contenido.

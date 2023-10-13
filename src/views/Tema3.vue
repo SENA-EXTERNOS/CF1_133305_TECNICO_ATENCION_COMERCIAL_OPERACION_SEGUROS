@@ -91,7 +91,7 @@
                 img(src='@/assets/curso/temas/tema3/img9.svg', alt='')
             
             .col-lg-10.mt-5
-              p Condiciones específicas que no están cubiertas en el contrato de seguros, por lo tanto no serán pagadas por el este. 
+              p Condiciones específicas que no están cubiertas en el contrato de seguros, por lo tanto, no serán pagadas por este. 
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -100,7 +100,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img10.svg')})`}"
           )
           .bloque-texto-g__texto.p-3
-            p Cuando un riesgo sea asegurable, este se proyecta a futuro, es decir, es incierto y medible, por lo tanto, no ha ocurrido aún. Los riesgos que cubre el seguro deben tener una probabilidad de ocurrencia y se pueden cuantificar económicamente; estos no pueden cubrir hechos ciertos o previamente conocidos, por ejemplo: los videojuegos del almacén de Anderson pueden ser asegurados contra robo. En caso de que ocurra este delito, la aseguradora pagará a Jairo el valor de los equipos, pero, el seguro no puede ser adquirido después de ocurrido el robo, ya que este es un hecho cierto, es decir, ya se sabe que hubo un robo.
+            p Cuando un riesgo sea asegurable, este se proyecta a futuro, es decir, es incierto y medible, por lo tanto, no ha ocurrido aún. Los riesgos que cubre el seguro deben tener una probabilidad de ocurrencia y se pueden cuantificar económicamente; estos no pueden cubrir hechos ciertos o previamente conocidos, por ejemplo: los videojuegos del almacén de Anderson pueden ser asegurados contra robo. En caso de que ocurra este delito, la aseguradora pagará a Anderson el valor de los equipos, pero, el seguro no puede ser adquirido después de ocurrido el robo, ya que este es un hecho cierto, es decir, ya se sabe que hubo un robo.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -117,29 +117,31 @@
             figure
               img(src='@/assets/curso/temas/tema3/img11.svg', alt='')
 
-          div(x="11%" y="62%" tooltip="" numero="+")
+          div(x="9%" y="68%" tooltip="" numero="+")
             h5 Seguros de vida
             p Son pólizas que cubren muchos beneficios, entre los cuales están: brindar asistencia financiera en caso de fallecimiento y entregar ahorros o reembolsos si el cliente decide no continuar con el seguro. Su objetivo es asegurar a la persona de por vida en un solo pago y entregar dinero al beneficiario si la persona asegurada fallece.
 
-          div(x="27%" y="20%" tooltip="" numero="+")
+          div(x="25.5%" y="22%" tooltip="" numero="+")
             h5 Seguros de transporte
             p Especialmente diseñados para la seguridad y protección de automóviles, camiones y otros medios de transporte de personas. Este tipo de seguros tienen cobertura de daños en caso de pérdida parcial o total del vehículo y cualquier asistencia técnica requerida por el cliente. Los beneficios de este seguro incluyen el asesoramiento legal, los servicios de grúa, la indemnización por daños causados a terceros y el reembolso de los gastos necesarios para la defensa jurídica en caso de accidente o daños al vehículo.
 
-          div(x="43%" y="62%" tooltip="" numero="+")
+          div(x="42%" y="68%" tooltip="" numero="+")
             h5 Seguros de vivienda
             p Este beneficio fue creado para proteger a los hogares en caso de accidentes y desastres que causen daños, tales como derrumbes, incendios y huracanes. En este caso, el beneficio tiene cobertura por humo, granizo, inundaciones, derrumbes o deslizamientos, rayos, ciclones, tifones, tornados, explosiones, daños causados por vehículos terrestres o por parte del beneficiario. También cubre los daños a la tierra y al terreno. 
 
-          div(x="59%" y="20%" tooltip="" numero="+")
+          div(x="58%" y="22%" tooltip="" numero="+")
             h5 Seguros de salud o enfermedad
             p Estos son seguros muy populares a nivel internacional, ya que ofrecen un servicio médico VIP a sus usuarios, brindando expertos siempre disponibles y una atención médica óptima y oportuna que no se encuentra en los sistemas de salud tradicionales. Además, cuenta con la posibilidad de elegir las clínicas en las cuales atienden especialistas exclusivos, realizan cirugías ambulatorias, intervenciones de fracturas, laboratorios clínicos, consultas médicas y ambulatorias, entre otros. También hacen parte de este tipo los Seguros de Recién Nacido o de accidentes. 
 
-          div(x="75%" y="62%" tooltip="" numero="+")
+          div(x="75%" y="68%" tooltip="" numero="+")
             h5 Seguro de accidentes personales
             p Tipo de seguro que ofrece una indemnización en caso de que una persona fallezca en un accidente. Cuenta con un apoyo económico en caso de invalidez o desmembración a causa del accidente.
 
-          div(x="91%" y="20%" tooltip="" numero="+")
+          div(x="91%" y="22%" tooltip="" numero="+")
             h5 Seguro de viajes 
             p Es un seguro para turistas que puedan tener un accidente; este cuenta con una indemnización y garantiza la cobertura durante el viaje a Colombia.
+
+      .h4.mb-5 Reaseguros
 
       .row.mb-5
         .col-lg-6
@@ -214,7 +216,7 @@
       .col-6.col-lg-2
         figure
           img(src="@/assets/curso/temas/tema3/img19.svg", alt="alt").img19-tm3
-    .bg6
+    .bg6.mb-4
       .row.justify-content-center
         .col-lg-9
           .cajon.color-primario.p-3
